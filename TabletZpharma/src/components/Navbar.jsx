@@ -1,8 +1,16 @@
 import React from "react";
 import { IoSearchSharp } from "react-icons/io5";
-import { Link, NavLink } from "react-router-dom";
+import NavItems from "./NavItems";
 
 function Navbar() {
+  const navLinks = [
+    { label: "Home", path: "/" },
+    { label: "About Us", path: "/aboutus" },
+    { label: "Products", path: "/products" },
+    { label: "Gallery", path: "/gallery" },
+    { label: "Contact", path: "/contact" }
+  ];
+
   return (
     <div className="border-b-2 w-full h-14 flex flex-row">
       {/* LOGO */}
@@ -23,11 +31,9 @@ function Navbar() {
       {/* Navlinks */}
       <div className="mt-3">
         <ul className="flex flex-row ml-20 space-x-20 ">
-          <li>Home</li>
-          <li>About Us</li>
-          <li>Products</li>
-          <li>Gallery</li>
-          <li>Contact</li>  
+          {navLinks.map((link, index) => (
+            <NavItems key={index} label={link.label} path={link.path} />
+          ))}
         </ul>
       </div>
       {/* SearchBar */}
