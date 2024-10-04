@@ -1,9 +1,12 @@
 import React from 'react'
+import {FAQ,Hero,Loader,Reviews} from '../components/cmp'
 
 function Home() {
   return (
     <div>
-      Home
+      <Hero/>
+      <Reviews/>
+      <FAQ/>
     </div>
   )
 }

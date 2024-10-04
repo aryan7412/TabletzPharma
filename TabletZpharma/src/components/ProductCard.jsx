@@ -20,7 +20,7 @@ function ProductCard() {
         {/* Price */}
         <div className="flex flex-row items-center justify-end gap-2">
           <div className="line-through text-sm text-gray-400">₹500</div>
-          <div className="text-lg font-bold text-blue-600">₹400</div>
+          <div className="text-lg font-bold">₹400</div>
         </div>
       </div>
     </div>

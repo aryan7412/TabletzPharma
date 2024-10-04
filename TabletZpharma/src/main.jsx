@@ -5,6 +5,7 @@ import Layout from './Layout.jsx'
 import { Route, RouterProvider, createBrowserRouter, createRoutesFromElements } from 'react-router-dom'
 import {AboutUs,Home,Contact,Gallery,Products} from './pages/pages.js'
 
+
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path = '/' element = {<Layout/>}>
