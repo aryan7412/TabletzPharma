@@ -5,8 +5,15 @@ function Contact() {
   return (
     <div>
       {/* Upper Part */}
-      <div></div>
-      
+      <div className="bg-black w-full h-36 flex flex-col items-center justify-center text-white">
+        <h1 className="text-5xl font-extrabold tracking-wide shadow-lg transition-transform duration-300 hover:scale-105">
+          Get in Touch
+        </h1>
+        <p className="mt-2 text-lg font-medium text-gray-300">
+          Contact us to improve our services and for any inquiries.
+        </p>{" "}
+      </div>
+
       <div className="flex justify-between mx-48">
         {/* Left Side */}
         <div className="w-1/2 mt-8">
@@ -44,13 +51,11 @@ function Contact() {
           <span className="text-sm font-semibold">
             Phone:
             <a href="tel:886 666 00555" className="ml-1">
-            886 666 00555
+              886 666 00555
             </a>
           </span>
         </div>
       </div>
-
-      {/* Lower Part */}
     </div>
   );
 }
