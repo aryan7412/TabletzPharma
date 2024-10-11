@@ -1,0 +1,290 @@
+[
+  {
+    "product_image": "https://m.media-amazon.com/images/I/71qy5hllAXL.jpg",
+    "product_name": "Dabur Chyawanprash",
+    "product_usage": "Immunity booster with herbs and vitamins.",
+    "product_mrp": "₹500"
+  },
+  {
+    "product_image": "https://himalayawellness.in/cdn/shop/files/KOFLET-LOZENGE-1s-INDIA-7844-F39_MOCKUP.jpg?v=1715251960",
+    "product_name": "Himalaya Koflet",
+    "product_usage": "Cough relief syrup for effective relief from cough.",
+    "product_mrp": "₹150"
+  },
+  {
+    "product_image": "http://www.rajivdixits.com/cdn/shop/files/patanjali-divya-shila-tulsi-drop-30-ml.png?v=1685439485",
+    "product_name": "Patanjali Tulsi Drops",
+    "product_usage": "Herbal drops to boost immunity and relieve cold symptoms.",
+    "product_mrp": "₹200"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/71I0XLV8Q+L.jpg",
+    "product_name": "Vicks VapoRub",
+    "product_usage": "Topical ointment for cough and cold relief.",
+    "product_mrp": "₹180"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/71R1jX4zLCL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Zandu Kesari Jivan",
+    "product_usage": "Health supplement for boosting immunity and energy.",
+    "product_mrp": "₹350"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/71hv8aEBNrL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Dabur Honey",
+    "product_usage": "Natural honey for soothing throat and boosting immunity.",
+    "product_mrp": "₹300"
+  },
+  {
+    "product_image": "https://getkuwa.com/cdn/shop/files/puretulsi_a35ee617-89b2-4922-8cf9-d67611a9153e.jpg?v=1719670065",
+    "product_name": "Kadha by Kapiva",
+    "product_usage": "Herbal drink for immunity and flu relief.",
+    "product_mrp": "₹399"
+  },
+  {
+    "product_image": "https://cdn01.pharmeasy.in/dam/products_otc/I41646/baidyanath-chyawanprash-special-immunity-omniprotection-52-ayurvedic-ingredients-500g-2-1669710999.jpg",
+    "product_name": "Baidyanath Chyawanprash",
+    "product_usage": "Traditional herbal jam for immunity enhancement.",
+    "product_mrp": "₹450"
+  },
+  {
+    "product_image": "https://www.bigbasket.com/media/uploads/p/l/40222687_6-tata-tea-gold-care-tea-blend-with-rich-taste-natural-ingredients-improves-immunity-memory.jpg",
+    "product_name": "Tata Tea Immunity",
+    "product_usage": "Herbal tea with immune-boosting properties.",
+    "product_mrp": "₹150"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/61+M0g2wToL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Patanjali Ashwagandha",
+    "product_usage": "Herbal supplement for stress relief and immunity.",
+    "product_mrp": "₹300"
+  },
+  {
+    "product_image": "https://onlineayurvedaworld.com/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/s/i/sitopaladi-churna.jpg",
+    "product_name": "Himalaya Sitopaladi Churna",
+    "product_usage": "Ayurvedic formulation for respiratory health.",
+    "product_mrp": "₹220"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/71KjdwxJK0L.jpg",
+    "product_name": "Curcumin Capsules",
+    "product_usage": "Natural supplement for inflammation and immunity.",
+    "product_mrp": "₹400"
+  },
+  {
+    "product_image": "http://www.bigelowtea.com/cdn/shop/products/grijb3hddxsfqseur1gk_8fe07a93-70fa-48cf-94ee-406f3fcea44b.jpg?v=1725692651",
+    "product_name": "Lemon and Ginger Tea",
+    "product_usage": "Herbal tea for soothing cold symptoms.",
+    "product_mrp": "₹199"
+  },
+  {
+    "product_image": "https://target.scene7.com/is/image/Target/GUEST_b11b83b0-4bf1-4bea-889f-88ceff1d4037?wid=488&hei=488&fmt=pjpeg",
+    "product_name": "Vicks Cough Drops",
+    "product_usage": "Lozenges for soothing throat and relieving cough.",
+    "product_mrp": "₹100"
+  },
+  {
+    "product_image": "https://thedesifood.com/media/Organic%20India%20Original%20Tulsi%20Tea,%2025%20pcs-1.webp",
+    "product_name": "Kapiva Organic Tulsi Tea",
+    "product_usage": "Herbal tea for respiratory health and immunity.",
+    "product_mrp": "₹299"
+  },
+  {
+    "product_image": "http://www.unormart.com/cdn/shop/products/115-dabur-tulsi-drops_1024x.jpg?v=1594284627",
+    "product_name": "Dabur Immunity Booster",
+    "product_usage": "Supplement for enhancing immunity.",
+    "product_mrp": "₹350"
+  },
+  {
+    "product_image": "https://cdn01.pharmeasy.in/dam/products_otc/158085/himalaya-septilin-tablets-60s-2-1671741075.jpg",
+    "product_name": "Himalaya Cold Relief Tablets",
+    "product_usage": "Tablets for relief from cold and flu symptoms.",
+    "product_mrp": "₹180"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/71RiKJKKmjL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Zandu Balm",
+    "product_usage": "Pain relief balm for headaches and colds.",
+    "product_mrp": "₹150"
+  },
+  {
+    "product_image": "https://www.themgshop.com/wp-content/uploads/2023/09/Saffola-Immuniveda-Golden-Turmeric-Milk-Mix-400-g-.2.jpg",
+    "product_name": "Saffola Immunity Booster",
+    "product_usage": "Health supplement to enhance immunity.",
+    "product_mrp": "₹299"
+  },
+  {
+    "product_image": "https://wilsonherbals.com/wp-content/uploads/2024/09/262bb5f6e32d42839a197e1f24098fe9-1024x68311111111111.png",
+    "product_name": "Vaidya Sane Ayurveda Kasamrit",
+    "product_usage": "Herbal cough syrup for respiratory health.",
+    "product_mrp": "₹250"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/61f7gbseQoL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Himalaya Cough Syrup",
+    "product_usage": "Natural syrup for relieving cough.",
+    "product_mrp": "₹199"
+  },
+  {
+    "product_image": "https://www.distacart.com/cdn/shop/products/giloyjuice2.jpg?v=1613936850",
+    "product_name": "Patanjali Giloy Juice",
+    "product_usage": "Immunity-boosting juice from the Giloy plant.",
+    "product_mrp": "₹200"
+  },
+  {
+    "product_image": "https://i.ytimg.com/vi/iWr4anFwj5s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB4rNdbB72VUJrU8LiJgEP5gsvZ-g",
+    "product_name": "Tata Tea Detox",
+    "product_usage": "Herbal tea for detoxifying and boosting immunity.",
+    "product_mrp": "₹199"
+  },
+  {
+    "product_image": "https://api.daburinternational.com/wp-content/uploads/2023/08/6291069751420-Tulsi-Drops-Main.jpg",
+    "product_name": "Dabur Tulsi Drops",
+    "product_usage": "Essential oil for cold relief and immunity boost.",
+    "product_mrp": "₹299"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/61f7gbseQoL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Himalaya Herbal Cough Syrup",
+    "product_usage": "Natural syrup for soothing throat and cough relief.",
+    "product_mrp": "₹199"
+  },
+  {
+    "product_image": "https://res.fkhealthplus.com/incom/images/product/Zandu-Kalamegha-Capsules-1577515233-10068950-1.jpg",
+    "product_name": "Himalaya Kalmegh Tablets",
+    "product_usage": "Ayurvedic supplement for liver health and immunity.",
+    "product_mrp": "₹220"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/81JuWVxCbeL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Vicks Menthol Inhaler",
+    "product_usage": "Inhaler for quick relief from nasal congestion.",
+    "product_mrp": "₹80"
+  },
+  {
+    "product_image": "https://magicpills.in/wp-content/uploads/2021/09/Dabur-Sanitize-Plus-Antiseptic-Liquid-Original-Neem-Pine-1602668181-10077227-1.jpg",
+    "product_name": "Dabur Sanitize Liquid",
+    "product_usage": "Sanitizing liquid for hands and surfaces.",
+    "product_mrp": "₹250"
+  },
+  {
+    "product_image": "https://cdn01.pharmeasy.in/dam/products_otc/I41646/baidyanath-chyawanprash-special-immunity-omniprotection-52-ayurvedic-ingredients-500g-2-1669710999.jpg",
+    "product_name": "Baidyanath Chyawanprash",
+    "product_usage": "Immunity-boosting herbal jam.",
+    "product_mrp": "₹400"
+  },
+  {
+    "product_image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1723788511SwaasariPravahi250ml1_1.png",
+    "product_name": "Patanjali Herbal Cough Syrup",
+    "product_usage": "Natural syrup for cough and throat soothing.",
+    "product_mrp": "₹180"
+  },
+  {
+    "product_image": "https://www.bigbasket.com/media/uploads/p/l/40280219_1-dabur-gulkand-praval-yukta-made-from-pure-ingredients-no-artificial-flavours.jpg",
+    "product_name": "Dabur Gulkand",
+    "product_usage": "Herbal sweet preserve for throat health.",
+    "product_mrp": "₹150"
+  },
+  {
+    "product_image": "https://www.simplyrecipes.com/thmb/bD5CkGho8qS_oqzehFLN1CpKjHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Honey-Lemon-Tea-LEAD-01-a2ca142c8df643a68d8d1df3631f7fff.jpg",
+    "product_name": "Lemon Honey Drink",
+    "product_usage": "Warm drink for soothing sore throat.",
+    "product_mrp": "₹100"
+  },
+  {
+    "product_image": "https://thedesifood.com/media/Happy%20Karma%20Variety%20Trail%20Mix%20-%20Glaze,%20Power,%20Fresh,%20Tang,%20Zing%20&%20Bliss,%20180%20g%20(6%20N%20X%2030%20g%20each)-1.webp",
+    "product_name": "Zandu Zing Energy Drink",
+    "product_usage": "Energy drink for boosting vitality.",
+    "product_mrp": "₹100"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/81vyiyXPslL.jpg",
+    "product_name": "Dabur Pudin Hara",
+    "product_usage": "Digestive aid for relief from indigestion.",
+    "product_mrp": "₹150"
+  },
+  {
+    "product_image": "https://pharmacy360.in/wp-content/uploads/2022/11/Ayurveda_images/d346e8f7-1a5c-48fb-8696-b5e55d9e14c5_1.jpg",
+    "product_name": "Himalaya Tulsi Drops",
+    "product_usage": "Herbal drops for respiratory support.",
+    "product_mrp": "₹200"
+  },
+  {
+    "product_image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1690962103AmlaJuice1ltrNew1.png",
+    "product_name": "Patanjali Amla Juice",
+    "product_usage": "Nutrient-rich juice for boosting immunity.",
+    "product_mrp": "₹250"
+  },
+  {
+    "product_image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=345896871276739015",
+    "product_name": "Himalaya Mintop Hair Oil",
+    "product_usage": "Hair oil for scalp health and dandruff control.",
+    "product_mrp": "₹350"
+  },
+  {
+    "product_image": "https://thumbs.dreamstime.com/z/indian-ayurvedic-kadha-karha-health-tonic-fighting-seasonal-infections-made-using-ginger-vasaka-leaves-justicia-281169139.jpg",
+    "product_name": "Lemon Ginger Ayurvedic Kadha",
+    "product_usage": "Kadha for immunity and cold relief.",
+    "product_mrp": "₹150"
+  },
+  {
+    "product_image": "http://uniqrr.com/cdn/shop/files/Untitled-1_d6fa3d76-5bdb-4471-9def-0e6ab6951b04.gif?v=1697883165",
+    "product_name": "Dabur Amla Candy",
+    "product_usage": "Chewy candy for vitamin C boost.",
+    "product_mrp": "₹120"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/61N2NtfMc9L.jpg",
+    "product_name": "Himalaya Nourishing Skin Cream",
+    "product_usage": "Moisturizing cream for dry skin in monsoon.",
+    "product_mrp": "₹300"
+  },
+  {
+    "product_image": "http://dgayurvedic.com/wp-content/uploads/2019/03/Balant-Kadha-no-4-min.jpg",
+    "product_name": "Baidyanath Kadha",
+    "product_usage": "Herbal drink for immunity and health.",
+    "product_mrp": "₹200"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/712llJTb+WL.jpg",
+    "product_name": "Patanjali Giloy Ghanvati",
+    "product_usage": "Tablet for boosting immunity.",
+    "product_mrp": "₹220"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/61VJTi6jg9L._AC_UF894,1000_QL80_.jpg",
+    "product_name": "Tata Tea Gold",
+    "product_usage": "Premium tea for health benefits.",
+    "product_mrp": "₹200"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/91hltDzFFvL.jpg",
+    "product_name": "Lemon Honey Herbal Cough Syrup",
+    "product_usage": "Natural syrup for cough relief.",
+    "product_mrp": "₹199"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/5137cuA2ZbL._AC_UF1000,1000_QL80_.jpg",
+    "product_name": "Zandu Sudarshan Churna",
+    "product_usage": "Herbal formulation for immunity enhancement.",
+    "product_mrp": "₹250"
+  },
+  {
+    "product_image": "https://m.media-amazon.com/images/I/41MVYp5QmGL.jpg",
+    "product_name": "Dabur Red Paste",
+    "product_usage": "Toothpaste with Ayurvedic properties.",
+    "product_mrp": "₹100"
+  },
+  {
+    "product_image": "https://images.ctfassets.net/umpxkz97ty8t/aIwP4Ll5m4jYR3qAlaqGB/901821b7dc61e1fdd2043acfa46ff81e/vicks-india-veer.jpg",
+    "product_name": "Vicks Action 500",
+    "product_usage": "Pain reliever for cold symptoms.",
+    "product_mrp": "₹120"
+  },
+  {
+    "product_image": "http://himalayawellness.in/cdn/shop/products/Mentat-Tablets60.jpg?v=1649314802",
+    "product_name": "Himalaya Mentat",
+    "product_usage": "Cognitive health supplement for mental wellness.",
+    "product_mrp": "₹240"
+  }
+]
