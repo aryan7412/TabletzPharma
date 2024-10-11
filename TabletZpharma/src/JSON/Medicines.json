@@ -1,600 +1,600 @@
 [
     {
-        "product_image": "https://example.com/product1.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Paracetamol",
         "product_usage": "Pain relief and fever reducer.",
         "product_mrp": "₹20"
     },
     {
-        "product_image": "https://example.com/product2.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Ibuprofen",
         "product_usage": "Anti-inflammatory and pain relief.",
         "product_mrp": "₹30"
     },
     {
-        "product_image": "https://example.com/product3.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Amoxicillin",
         "product_usage": "Antibiotic for bacterial infections.",
         "product_mrp": "₹80"
     },
     {
-        "product_image": "https://example.com/product4.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Cetirizine",
         "product_usage": "Allergy relief.",
         "product_mrp": "₹40"
     },
     {
-        "product_image": "https://example.com/product5.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Omeprazole",
         "product_usage": "Acid reflux and heartburn treatment.",
         "product_mrp": "₹60"
     },
     {
-        "product_image": "https://example.com/product6.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Losartan",
         "product_usage": "High blood pressure treatment.",
         "product_mrp": "₹120"
     },
     {
-        "product_image": "https://example.com/product7.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Metformin",
         "product_usage": "Blood sugar control for diabetes.",
         "product_mrp": "₹70"
     },
     {
-        "product_image": "https://example.com/product8.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Atorvastatin",
         "product_usage": "Cholesterol management.",
         "product_mrp": "₹150"
     },
     {
-        "product_image": "https://example.com/product9.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Levothyroxine",
         "product_usage": "Thyroid hormone replacement.",
         "product_mrp": "₹200"
     },
     {
-        "product_image": "https://example.com/product10.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Amlodipine",
         "product_usage": "High blood pressure and chest pain.",
         "product_mrp": "₹50"
     },
     {
-        "product_image": "https://example.com/product11.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Glibenclamide",
         "product_usage": "Blood sugar control for diabetes.",
         "product_mrp": "₹45"
     },
     {
-        "product_image": "https://example.com/product12.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Ciprofloxacin",
         "product_usage": "Antibiotic for bacterial infections.",
         "product_mrp": "₹60"
     },
     {
-        "product_image": "https://example.com/product13.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Ranitidine",
         "product_usage": "Acid reducer for ulcers and reflux.",
         "product_mrp": "₹30"
     },
     {
-        "product_image": "https://example.com/product14.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Dexamethasone",
         "product_usage": "Anti-inflammatory and immunosuppressant.",
         "product_mrp": "₹100"
     },
     {
-        "product_image": "https://example.com/product15.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Salbutamol",
         "product_usage": "Bronchodilator for asthma.",
         "product_mrp": "₹60"
     },
     {
-        "product_image": "https://example.com/product16.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Sodium Valproate",
         "product_usage": "Seizure control.",
         "product_mrp": "₹150"
     },
     {
-        "product_image": "https://example.com/product17.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Prednisone",
         "product_usage": "Anti-inflammatory and immunosuppressant.",
         "product_mrp": "₹90"
     },
     {
-        "product_image": "https://example.com/product18.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Furosemide",
         "product_usage": "Diuretic for fluid retention.",
         "product_mrp": "₹50"
     },
     {
-        "product_image": "https://example.com/product19.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Atenolol",
         "product_usage": "High blood pressure and heart rate control.",
         "product_mrp": "₹60"
     },
     {
-        "product_image": "https://example.com/product20.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Clopidogrel",
         "product_usage": "Antiplatelet for heart disease.",
         "product_mrp": "₹120"
     },
     {
-        "product_image": "https://example.com/product21.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Tramadol",
         "product_usage": "Moderate to severe pain relief.",
         "product_mrp": "₹180"
     },
     {
-        "product_image": "https://example.com/product22.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Diclofenac",
         "product_usage": "Pain relief and inflammation reduction.",
         "product_mrp": "₹50"
     },
     {
-        "product_image": "https://example.com/product23.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Azithromycin",
         "product_usage": "Antibiotic for bacterial infections.",
         "product_mrp": "₹120"
     },
     {
-        "product_image": "https://example.com/product24.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Hydrochlorothiazide",
         "product_usage": "Diuretic for high blood pressure.",
         "product_mrp": "₹80"
     },
     {
-        "product_image": "https://example.com/product25.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Sildenafil",
         "product_usage": "Erectile dysfunction treatment.",
         "product_mrp": "₹250"
     },
     {
-        "product_image": "https://example.com/product26.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Duloxetine",
         "product_usage": "Antidepressant and anxiety treatment.",
         "product_mrp": "₹300"
     },
     {
-        "product_image": "https://example.com/product27.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Lisinopril",
         "product_usage": "High blood pressure and heart failure treatment.",
         "product_mrp": "₹80"
     },
     {
-        "product_image": "https://example.com/product28.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Metoprolol",
         "product_usage": "High blood pressure and heart rate control.",
         "product_mrp": "₹70"
     },
     {
-        "product_image": "https://example.com/product29.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Naproxen",
         "product_usage": "Pain relief and inflammation reduction.",
         "product_mrp": "₹80"
     },
     {
-        "product_image": "https://example.com/product30.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Chlorpheniramine",
         "product_usage": "Allergy relief and cold symptoms.",
         "product_mrp": "₹40"
     },
     {
-        "product_image": "https://example.com/product31.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Codeine",
         "product_usage": "Cough relief and pain management.",
         "product_mrp": "₹100"
     },
     {
-        "product_image": "https://example.com/product32.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Nitroglycerin",
         "product_usage": "Chest pain and heart conditions.",
         "product_mrp": "₹150"
     },
     {
-        "product_image": "https://example.com/product33.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Ferrous Sulfate",
         "product_usage": "Iron supplement for anemia.",
         "product_mrp": "₹60"
     },
     {
-        "product_image": "https://example.com/product34.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Rifaximin",
         "product_usage": "Antibiotic for gut infections.",
         "product_mrp": "₹150"
     },
     {
-        "product_image": "https://example.com/product35.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Diltiazem",
         "product_usage": "High blood pressure and chest pain.",
         "product_mrp": "₹200"
     },
     {
-        "product_image": "https://example.com/product36.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Gabapentin",
         "product_usage": "Nerve pain and seizure control.",
         "product_mrp": "₹220"
     },
     {
-        "product_image": "https://example.com/product37.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Tamsulosin",
         "product_usage": "Benign prostatic hyperplasia treatment.",
         "product_mrp": "₹150"
     },
     {
-        "product_image": "https://example.com/product38.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Clonazepam",
         "product_usage": "Anxiety and seizure control.",
         "product_mrp": "₹300"
     },
     {
-        "product_image": "https://example.com/product39.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Loratadine",
         "product_usage": "Allergy relief.",
         "product_mrp": "₹50"
     },
     {
-        "product_image": "https://example.com/product40.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Metronidazole",
         "product_usage": "Antibiotic for infections.",
         "product_mrp": "₹80"
     },
     {
-        "product_image": "https://example.com/product41.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Insulin",
         "product_usage": "Diabetes management.",
         "product_mrp": "₹600"
     },
     {
-        "product_image": "https://example.com/product42.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Candesartan",
         "product_usage": "High blood pressure treatment.",
         "product_mrp": "₹120"
     },
     {
-        "product_image": "https://example.com/product43.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Esomeprazole",
         "product_usage": "Acid reflux and heartburn treatment.",
         "product_mrp": "₹80"
     },
     {
-        "product_image": "https://example.com/product44.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Propranolol",
         "product_usage": "High blood pressure and anxiety control.",
         "product_mrp": "₹90"
     },
     {
-        "product_image": "https://example.com/product45.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Baclofen",
         "product_usage": "Muscle spasms and stiffness.",
         "product_mrp": "₹100"
     },
     {
-        "product_image": "https://example.com/product46.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Venlafaxine",
         "product_usage": "Antidepressant and anxiety treatment.",
         "product_mrp": "₹250"
     },
     {
-        "product_image": "https://example.com/product47.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Citalopram",
         "product_usage": "Antidepressant for mood disorders.",
         "product_mrp": "₹220"
     },
     {
-        "product_image": "https://example.com/product48.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Bupropion",
         "product_usage": "Antidepressant and smoking cessation.",
         "product_mrp": "₹300"
     },
     {
-        "product_image": "https://example.com/product49.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Mirtazapine",
         "product_usage": "Antidepressant and anxiety treatment.",
         "product_mrp": "₹250"
     },
     {
-        "product_image": "https://example.com/product50.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Hydrocodone",
         "product_usage": "Pain relief.",
         "product_mrp": "₹200"
     },
     {
-        "product_image": "https://example.com/product51.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Trazodone",
         "product_usage": "Antidepressant and sleep aid.",
         "product_mrp": "₹250"
     },
     {
-        "product_image": "https://example.com/product52.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Olmesartan",
         "product_usage": "High blood pressure treatment.",
         "product_mrp": "₹100"
     },
     {
-        "product_image": "https://example.com/product53.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Sitagliptin",
         "product_usage": "Blood sugar control for diabetes.",
         "product_mrp": "₹300"
     },
     {
-        "product_image": "https://example.com/product54.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Acarbose",
         "product_usage": "Blood sugar control for diabetes.",
         "product_mrp": "₹150"
     },
     {
-        "product_image": "https://example.com/product55.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Dapagliflozin",
         "product_usage": "Blood sugar control for diabetes.",
         "product_mrp": "₹320"
     },
     {
-        "product_image": "https://example.com/product56.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Sodium Bicarbonate",
         "product_usage": "Antacid and alkalinizing agent.",
         "product_mrp": "₹40"
     },
     {
-        "product_image": "https://example.com/product57.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Nitrofurantoin",
         "product_usage": "Antibiotic for urinary tract infections.",
         "product_mrp": "₹120"
     },
     {
-        "product_image": "https://example.com/product58.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Bromhexine",
         "product_usage": "Cough and mucus relief.",
         "product_mrp": "₹60"
     },
     {
-        "product_image": "https://example.com/product59.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Cholecalciferol",
         "product_usage": "Vitamin D supplement.",
         "product_mrp": "₹90"
     },
     {
-        "product_image": "https://example.com/product60.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Levocetirizine",
         "product_usage": "Allergy relief.",
         "product_mrp": "₹50"
     },
     {
-        "product_image": "https://example.com/product61.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Orlistat",
         "product_usage": "Weight loss management.",
         "product_mrp": "₹300"
     },
     {
-        "product_image": "https://example.com/product62.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Doxylamine",
         "product_usage": "Sleep aid and allergy relief.",
         "product_mrp": "₹80"
     },
     {
-        "product_image": "https://example.com/product63.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Ropinirole",
         "product_usage": "Parkinson's disease treatment.",
         "product_mrp": "₹400"
     },
     {
-        "product_image": "https://example.com/product64.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Etoricoxib",
         "product_usage": "Pain and inflammation relief.",
         "product_mrp": "₹200"
     },
     {
-        "product_image": "https://example.com/product65.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Glycerin",
         "product_usage": "Laxative and moisturizer.",
         "product_mrp": "₹50"
     },
     {
-        "product_image": "https://example.com/product66.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Miconazole",
         "product_usage": "Antifungal for skin infections.",
         "product_mrp": "₹120"
     },
     {
-        "product_image": "https://example.com/product67.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Fluconazole",
         "product_usage": "Antifungal for infections.",
         "product_mrp": "₹150"
     },
     {
-        "product_image": "https://example.com/product68.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Sodium Chloride",
         "product_usage": "Electrolyte and hydration.",
         "product_mrp": "₹20"
     },
     {
-        "product_image": "https://example.com/product69.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Fexofenadine",
         "product_usage": "Allergy relief.",
         "product_mrp": "₹70"
     },
     {
-        "product_image": "https://example.com/product70.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Bupropion",
         "product_usage": "Antidepressant and smoking cessation.",
         "product_mrp": "₹300"
     },
     {
-        "product_image": "https://example.com/product71.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Methotrexate",
         "product_usage": "Cancer and autoimmune disease treatment.",
         "product_mrp": "₹500"
     },
     {
-        "product_image": "https://example.com/product72.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Levamisole",
         "product_usage": "Anthelmintic for worm infections.",
         "product_mrp": "₹150"
     },
     {
-        "product_image": "https://example.com/product73.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Lignocaine",
         "product_usage": "Local anesthetic.",
         "product_mrp": "₹200"
     },
     {
-        "product_image": "https://example.com/product74.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Thyroxine",
         "product_usage": "Thyroid hormone replacement.",
         "product_mrp": "₹300"
     },
     {
-        "product_image": "https://example.com/product75.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Bromazepam",
         "product_usage": "Anxiety and sleep disorders.",
         "product_mrp": "₹250"
     },
     {
-        "product_image": "https://example.com/product76.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Clopidogrel",
         "product_usage": "Antiplatelet for heart disease.",
         "product_mrp": "₹120"
     },
     {
-        "product_image": "https://example.com/product77.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Dapagliflozin",
         "product_usage": "Blood sugar control for diabetes.",
         "product_mrp": "₹320"
     },
     {
-        "product_image": "https://example.com/product78.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Rosuvastatin",
         "product_usage": "Cholesterol management.",
         "product_mrp": "₹180"
     },
     {
-        "product_image": "https://example.com/product79.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Bimatoprost",
         "product_usage": "Eye drops for glaucoma.",
         "product_mrp": "₹300"
     },
     {
-        "product_image": "https://example.com/product80.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Eplerenone",
         "product_usage": "Heart failure treatment.",
         "product_mrp": "₹500"
     },
     {
-        "product_image": "https://example.com/product81.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Alendronate",
         "product_usage": "Osteoporosis treatment.",
         "product_mrp": "₹350"
     },
     {
-        "product_image": "https://example.com/product82.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Doxorubicin",
         "product_usage": "Chemotherapy for cancer.",
         "product_mrp": "₹600"
     },
     {
-        "product_image": "https://example.com/product83.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Atenolol",
         "product_usage": "High blood pressure and heart rate control.",
         "product_mrp": "₹60"
     },
     {
-        "product_image": "https://example.com/product84.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Lithium",
         "product_usage": "Mood stabilization in bipolar disorder.",
         "product_mrp": "₹500"
     },
     {
-        "product_image": "https://example.com/product85.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Hydroxyzine",
         "product_usage": "Anxiety and sedation.",
         "product_mrp": "₹150"
     },
     {
-        "product_image": "https://example.com/product86.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Ropinirole",
         "product_usage": "Parkinson's disease treatment.",
         "product_mrp": "₹400"
     },
     {
-        "product_image": "https://example.com/product87.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Quetiapine",
         "product_usage": "Antipsychotic for schizophrenia.",
         "product_mrp": "₹300"
     },
     {
-        "product_image": "https://example.com/product88.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Aripiprazole",
         "product_usage": "Antipsychotic for schizophrenia.",
         "product_mrp": "₹400"
     },
     {
-        "product_image": "https://example.com/product89.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Propranolol",
         "product_usage": "High blood pressure and anxiety control.",
         "product_mrp": "₹90"
     },
     {
-        "product_image": "https://example.com/product90.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Fentanyl",
         "product_usage": "Severe pain relief.",
         "product_mrp": "₹800"
     },
     {
-        "product_image": "https://example.com/product91.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Lacosamide",
         "product_usage": "Seizure control.",
         "product_mrp": "₹500"
     },
     {
-        "product_image": "https://example.com/product92.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Dronedarone",
         "product_usage": "Atrial fibrillation treatment.",
         "product_mrp": "₹600"
     },
     {
-        "product_image": "https://example.com/product93.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Rivastigmine",
         "product_usage": "Alzheimer's disease treatment.",
         "product_mrp": "₹500"
     },
     {
-        "product_image": "https://example.com/product94.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Donepezil",
         "product_usage": "Alzheimer's disease treatment.",
         "product_mrp": "₹300"
     },
     {
-        "product_image": "https://example.com/product95.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Naltrexone",
         "product_usage": "Alcohol and opioid dependence.",
         "product_mrp": "₹400"
     },
     {
-        "product_image": "https://example.com/product96.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Tegretol",
         "product_usage": "Seizure control.",
         "product_mrp": "₹300"
     },
     {
-        "product_image": "https://example.com/product97.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Zonisamide",
         "product_usage": "Seizure control.",
         "product_mrp": "₹500"
     },
     {
-        "product_image": "https://example.com/product98.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Varenicline",
         "product_usage": "Smoking cessation aid.",
         "product_mrp": "₹400"
     },
     {
-        "product_image": "https://example.com/product99.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Aspirin",
         "product_usage": "Pain relief and anti-inflammatory.",
         "product_mrp": "₹20"
     },
     {
-        "product_image": "https://example.com/product100.jpg",
+        "product_image": "/Medicine.webp",
         "product_name": "Oxcarbazepine",
         "product_usage": "Seizure control.",
         "product_mrp": "₹500"
