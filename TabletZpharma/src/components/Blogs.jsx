@@ -5,7 +5,7 @@ function Blogs() {
 
   const fetchBlogs = async () => {
     let url =
-      "https://newsapi.org/v2/top-headlines?category=health&apiKey=405bf9d0b2804f56a21d8b19beb35d7e";
+      `https://newsapi.org/v2/top-headlines?category=health&apiKey=${import.meta.env.VITE_NEWS_API_KEY}`;
     let data = await fetch(url);
     let parsedData = await data.json();
     setArticles(parsedData.articles);
