@@ -2,13 +2,33 @@ import React, { useState, useEffect } from "react";
 
 function Blogs() {
   const [articles, setArticles] = useState([]);
+  const [error, setError] = useState(null);
+  const [loading, setLoading] = useState(true);
 
   const fetchBlogs = async () => {
-    let url =
-      `https://newsapi.org/v2/top-headlines?category=health&apiKey=${import.meta.env.VITE_NEWS_API_KEY}`;
-    let data = await fetch(url);
-    let parsedData = await data.json();
-    setArticles(parsedData.articles);
+    try {
+      setLoading(true);
+      setError(null);
+      
+      if (!import.meta.env.BLOG_API_KEY) {
+        throw new Error('NewsAPI key is not configured');
+      }
+
+      let url = `https://newsapi.org/v2/top-headlines?category=health&apiKey=${import.meta.env.BLOG_API_KEY}`;
+      let data = await fetch(url);
+      
+      if (!data.ok) {
+        throw new Error('Failed to fetch news');
+      }
+      
+      let parsedData = await data.json();
+      setArticles(parsedData.articles || []);
+    } catch (err) {
+      console.error('Error fetching blogs:', err);
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
   };
 
   useEffect(() => {
@@ -59,7 +79,17 @@ function Blogs() {
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 px-4">
-        {articles.length > 0 ? (
+        {loading ? (
+          <div className="col-span-3 text-center py-12">
+            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
+            <p className="text-gray-600">Loading latest articles...</p>
+          </div>
+        ) : error ? (
+          <div className="col-span-3 text-center py-12">
+            <div className="text-red-600 mb-4">Error loading articles</div>
+            <p className="text-gray-600">{error}</p>
+          </div>
+        ) : articles.length > 0 ? (
           articles
             .filter((article) => article.urlToImage)
             .slice(0, 3)
@@ -68,8 +98,7 @@ function Blogs() {
             ))
         ) : (
           <div className="col-span-3 text-center py-12">
-            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
-            <p className="text-gray-600">Loading latest articles...</p>
+            <p className="text-gray-600">No articles found</p>
           </div>
         )}
       </div>
