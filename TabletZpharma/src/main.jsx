@@ -14,12 +14,8 @@ const router = createBrowserRouter(
       <Route path="contact" element={<Contact/>} />
       <Route path="products" element={<Products/>} />
       <Route path="products/:category" element={<Products/>} />
-      <Route path="*" element={<Home/>} />
     </Route>
-  ),
-  {
-    basename: import.meta.env.BASE_URL || '/'
-  }
+  )
 )
 
 createRoot(document.getElementById('root')).render(
