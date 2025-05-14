@@ -10,18 +10,27 @@ function Blogs() {
       setLoading(true);
       setError(null);
       
-      if (!import.meta.env.BLOG_API_KEY) {
-        throw new Error('NewsAPI key is not configured');
+      // Debug log to check if API key exists
+      console.log('API Key exists:', !!import.meta.env.BLOG_API_KEY);
+      console.log('API Key value:', import.meta.env.BLOG_API_KEY);
+      
+      const apiKey = import.meta.env.BLOG_API_KEY;
+      if (!apiKey) {
+        throw new Error('Blog API key is not configured');
       }
 
-      let url = `https://newsapi.org/v2/top-headlines?category=health&apiKey=${import.meta.env.BLOG_API_KEY}`;
+      let url = `https://newsapi.org/v2/top-headlines?category=health&apiKey=${apiKey}`;
+      console.log('Fetching from URL:', url); // Debug log
+      
       let data = await fetch(url);
+      console.log('Response status:', data.status); // Debug log
       
       if (!data.ok) {
-        throw new Error('Failed to fetch news');
+        throw new Error(`Failed to fetch news: ${data.status} ${data.statusText}`);
       }
       
       let parsedData = await data.json();
+      console.log('API Response:', parsedData); // Debug log
       setArticles(parsedData.articles || []);
     } catch (err) {
       console.error('Error fetching blogs:', err);
