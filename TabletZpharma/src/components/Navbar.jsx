@@ -1,8 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 import { IoSearchSharp } from "react-icons/io5";
 import NavItems from "./NavItems";
+import { useNavigate } from "react-router-dom";
 
 function Navbar() {
+  const [searchQuery, setSearchQuery] = useState("");
+  const navigate = useNavigate();
+
   const navLinks = [
     { label: "Home", path: "/" },
     { label: "About Us", path: "/aboutus" },
@@ -10,6 +14,13 @@ function Navbar() {
     { label: "Gallery", path: "/gallery" },
     { label: "Contact", path: "/contact" }
   ];
+
+  const handleSearch = (e) => {
+    e.preventDefault();
+    if (searchQuery.trim()) {
+      navigate(`/products?search=${encodeURIComponent(searchQuery.trim())}`);
+    }
+  };
 
   return (
     <div className="border-b-2 w-full h-14 flex flex-row">
@@ -38,9 +49,11 @@ function Navbar() {
       </div>
       {/* SearchBar */}
       <div className="ml-20 mt-[3px]">
-        <form className="max-w-2xl mx-auto relative">
+        <form onSubmit={handleSearch} className="max-w-2xl mx-auto relative">
           <input
             type="search"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
             className="block w-80 h-12 p-4 pl-10 text-sm text-gray-900 border rounded-lg bg-white focus:ring-blue-500 focus:border-blue-500"
             placeholder="Search Medicines..."
             required

@@ -9,8 +9,24 @@ const FAQ = () => {
       </h1>
       <div className="p-4 w-full max-w-3xl mx-auto rounded-lg">
         <Accordion
+          question="What are the discounts?"
+          answer="15% off on all medicines and 20% off on purchase of medicines above 999"
+        />
+        <Accordion
           question="Where is TabletzPharma located"
           answer="Jaraka"
+        />
+        <Accordion
+          question="What are the timings of the store"
+          answer="Everyday 8:00 AM to 10:00 PM"
+        />
+        <Accordion
+          question="What are the delivery charges?"
+          answer="Orders above 999 are eligible for free delivery"
+        />
+        <Accordion
+          question="What are the timings of the doctor's consultation?"
+          answer="Everyday 8:00 AM to 10:00 PM"
         />
       </div>
     </>

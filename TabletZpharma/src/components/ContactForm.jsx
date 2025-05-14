@@ -18,7 +18,30 @@ function ContactForm() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log("Form Data:", formData);
+    
+    // Create mailto link with form data
+    const subject = `Contact Form Submission from ${formData.firstName} ${formData.lastName}`;
+    const body = `
+Name: ${formData.firstName} ${formData.lastName}
+Email: ${formData.email}
+
+Message:
+${formData.message}
+    `;
+    
+    // Encode the subject and body for the mailto link
+    const mailtoLink = `mailto:information@tabletzpharma.in?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    
+    // Open default mail client
+    window.location.href = mailtoLink;
+    
+    // Clear form after sending
+    setFormData({
+      firstName: "",
+      lastName: "",
+      email: "",
+      message: "",
+    });
   };
 
   return (

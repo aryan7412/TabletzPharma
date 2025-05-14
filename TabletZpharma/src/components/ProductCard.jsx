@@ -2,22 +2,22 @@ import React from 'react'
 
 function ProductCard({ image, productName, usage, mrp }) {
   return (
-    <div className='h-[350px] w-[220px] ml-20 mt-20 border border-gray-300 rounded-2xl shadow-lg overflow-hidden transition-transform transform hover:scale-105'>
-      {/* Product Image */}
-      <div className='h-[60%] overflow-hidden'>
+    <div className='h-[400px] w-[280px] m-4 border border-gray-300 rounded-xl shadow-lg overflow-hidden transition-transform transform hover:scale-105 bg-white'>
+      {/* Product Image Container */}
+      <div className='h-[60%] w-full relative'>
         <img 
           src={image} 
           alt={productName} 
-          className='h-full w-full object-cover' // Ensures the image fills the container
+          className='absolute inset-0 w-full h-full object-contain p-4' // Changed to object-contain with padding
         />
       </div>
-      <div className='h-[40%] w-full border-t border-gray-300 p-2'>
+      <div className='h-[40%] w-full border-t border-gray-300 p-4 flex flex-col justify-between'>
         {/* Product Name */}
-        <div className='text-md font-semibold text-gray-800 mb-1'>{productName}</div>
+        <div className='text-lg font-semibold text-gray-800 line-clamp-2'>{productName}</div>
         {/* Product Usage */}
-        <div className='text-gray-600 text-sm mb-2'>{usage}</div>
+        <div className='text-gray-600 text-sm line-clamp-2'>{usage}</div>
         {/* Product MRP */}
-        <div className='text-md font-bold text-black'>{mrp}</div>
+        <div className='text-lg font-bold text-black mt-2'>{mrp}</div>
       </div>
     </div>
   )
