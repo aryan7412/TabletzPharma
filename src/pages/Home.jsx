@@ -40,11 +40,11 @@ function Home() {
       </section>
 
       {/* Blogs Section */}
-      <section className="py-16 bg-gradient-to-r from-blue-50 to-purple-50">
+      {/* <section className="py-16 bg-gradient-to-r from-blue-50 to-purple-50">
         <div className="container mx-auto px-4">
           <Blogs/>
         </div>
-      </section>
+      </section> */}
 
       {/* FAQ Section */}
       <section className="py-16 bg-white">
