@@ -39,7 +39,7 @@ function Hero() {
   }, []);
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-4 max-w-[85rem] mx-auto mt-7">
       {/* Main Carousel */}
       <div className="relative h-[600px] overflow-hidden">
         {slides.map((slide, index) => (
