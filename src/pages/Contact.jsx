@@ -5,7 +5,7 @@ function Contact() {
   return (
     <div>
       {/* Upper Part */}
-      <div className="bg-black w-full h-36 flex flex-col items-center justify-center text-white px-2">
+      <div className="bg-black w-full h-36 flex flex-col items-center justify-center text-white px-2" data-aos="fade-up">
         <h1 className="text-5xl font-extrabold tracking-wide shadow-lg transition-transform duration-300 hover:scale-105">
           Get in Touch
         </h1>
@@ -14,13 +14,13 @@ function Contact() {
         </p>{" "}
       </div>
 
-      <div className="flex flex-col lg:flex-row justify-between gap-8 px-4 sm:px-8 md:px-16 lg:px-24 xl:px-48 py-8">
+      <div className="flex flex-col lg:flex-row justify-between gap-8 px-4 sm:px-8 md:px-16 lg:px-24 xl:px-48 py-8" data-aos="fade-up">
         {/* Left Side */}
-        <div className="w-full lg:w-1/2 mb-8 lg:mb-0">
+        <div className="w-full lg:w-1/2 mb-8 lg:mb-0" data-aos="zoom-in">
           <ContactForm />
         </div>
         {/* Right Side */}
-        <div className="w-full lg:w-1/2 flex flex-col items-center lg:items-start">
+        <div className="w-full lg:w-1/2 flex flex-col items-center lg:items-start" data-aos="zoom-in">
           <div className="w-full h-64 sm:h-80 md:h-96 mt-4 lg:mt-20">
             <iframe
               className="shadow-xl w-full h-full rounded-lg"

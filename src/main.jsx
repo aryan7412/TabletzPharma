@@ -4,6 +4,9 @@ import './index.css'
 import Layout from './Layout.jsx'
 import { Route, RouterProvider, createBrowserRouter, createRoutesFromElements } from 'react-router-dom'
 import {AboutUs,Home,Contact,Gallery,Products} from './pages/pages.js'
+import 'aos/dist/aos.css';
+import AOS from 'aos';
+import { useEffect } from 'react';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -18,8 +21,20 @@ const router = createBrowserRouter(
   )
 )
 
+function AosInit() {
+  useEffect(() => {
+    AOS.init({
+      duration: 800,
+      once: true,
+      easing: 'ease-in-out',
+    });
+  }, []);
+  return null;
+}
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
+    <AosInit />
     <RouterProvider router={router} />
   </StrictMode>,
 )

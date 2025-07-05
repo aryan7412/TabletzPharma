@@ -102,22 +102,23 @@ function Navbar() {
               <NavItems key={index} label={link.label} path={link.path} />
             ))}
           </ul>
-          <form onSubmit={handleSearch} className="relative">
+          <form onSubmit={handleSearch} className="relative flex items-center">
             <input
               type="search"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="block w-full h-10 p-4 pl-10 text-sm text-gray-900 border rounded-lg bg-white focus:ring-blue-500 focus:border-blue-500"
+              className="block w-full h-10 p-4 pl-10 text-sm text-gray-900 border rounded-lg bg-white focus:ring-blue-500 focus:border-blue-500 pr-24"
               placeholder="Search Medicines..."
               required
             />
+            <IoSearchSharp className="absolute left-3 text-gray-500 w-4 h-4 top-1/2 -translate-y-1/2 pointer-events-none" />
             <button
               type="submit"
-              className="text-white absolute right-2.5 bottom-1.5 bg-blue-700 hover:bg-blue-800 focus:ring-4 font-medium rounded-lg text-sm px-4 py-2"
+              className="absolute right-2 top-1/2 -translate-y-1/2 text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 font-medium rounded-lg text-sm px-4 py-2"
+              style={{minHeight:'2.25rem'}}
             >
               Search
             </button>
-            <IoSearchSharp className="absolute left-3 text-gray-500 w-4 h-4 top-3 pointer-events-none" />
           </form>
         </div>
       </div>

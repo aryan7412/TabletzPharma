@@ -2,10 +2,10 @@ import React from 'react';
 
 function AboutUs() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
+    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white w-full overflow-x-hidden px-2 sm:px-0 py-2 sm:py-0">
       {/* Hero Section */}
-      <section className="relative py-20 bg-gradient-to-r from-blue-50 to-purple-50">
-        <div className="container mx-auto px-4">
+      <section className="relative py-12 sm:py-20 bg-gradient-to-r from-blue-50 to-purple-50" data-aos="fade-up">
+        <div className="max-w-7xl mx-auto px-2 sm:px-4">
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="md:w-1/2">
               <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
@@ -36,8 +36,8 @@ function AboutUs() {
       </section>
 
       {/* Services Section */}
-      <section className="py-20 bg-white">
-        <div className="container mx-auto px-4">
+      <section className="py-12 sm:py-20 bg-white" data-aos="fade-up">
+        <div className="max-w-7xl mx-auto px-2 sm:px-4">
           <div className="text-center mb-16">
             <h2 className="text-3xl font-bold text-gray-800 mb-4">Our Services</h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
@@ -45,17 +45,17 @@ function AboutUs() {
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div className="bg-blue-50 p-8 rounded-xl text-center">
+            <div className="bg-blue-50 p-8 rounded-xl text-center" data-aos="fade-right">
               <div className="text-4xl mb-4">💊</div>
               <h3 className="text-xl font-bold text-gray-800 mb-2">Quality Medicines</h3>
               <p className="text-gray-600">Wide range of medicines with special discounts</p>
             </div>
-            <div className="bg-blue-50 p-8 rounded-xl text-center">
+            <div className="bg-blue-50 p-8 rounded-xl text-center" data-aos="zoom-in">
               <div className="text-4xl mb-4">🚚</div>
               <h3 className="text-xl font-bold text-gray-800 mb-2">Home Delivery</h3>
               <p className="text-gray-600">Call 8969995969 for quick delivery</p>
             </div>
-            <div className="bg-blue-50 p-8 rounded-xl text-center">
+            <div className="bg-blue-50 p-8 rounded-xl text-center" data-aos="fade-left">
               <div className="text-4xl mb-4">👨‍⚕️</div>
               <h3 className="text-xl font-bold text-gray-800 mb-2">Doctor Consultation</h3>
               <p className="text-gray-600">Visit our in-house doctor for professional advice</p>
@@ -65,17 +65,17 @@ function AboutUs() {
       </section>
 
       {/* Doctor Consultation Section */}
-      <section className="py-20 bg-gradient-to-r from-blue-50 to-purple-50">
-        <div className="container mx-auto px-4">
+      <section className="py-12 sm:py-20 bg-gradient-to-r from-blue-50 to-purple-50" data-aos="fade-up">
+        <div className="max-w-7xl mx-auto px-2 sm:px-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-            <div className="relative">
+            <div className="relative" data-aos="fade-right">
               <img 
                 src="https://img.freepik.com/free-vector/medical-doctor-team-concept-illustration_114360-1513.jpg" 
                 alt="Doctor Consultation" 
                 className="rounded-lg shadow-xl w-full"
               />
             </div>
-            <div className="bg-white p-8 rounded-xl shadow-lg">
+            <div className="bg-white p-8 rounded-xl shadow-lg" data-aos="fade-left">
               <h3 className="text-2xl font-bold text-gray-800 mb-4">Doctor Consultation</h3>
               <p className="text-gray-600 mb-6">
                 Visit our in-house doctor for professional medical advice and consultation. 
