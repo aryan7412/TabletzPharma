@@ -9,7 +9,7 @@ function Footer() {
   return (
     <div className="relative bg-slate-800 w-full mt-32">
       {/* Upper Element */}
-      <div className="absolute bg-[#00d5a5] w-[900px] h-28 left-1/2 transform -translate-x-1/2 -top-14 rounded-2xl flex items-center justify-around px-8 z-10">
+      <div className="absolute bg-[#00d5a5] w-11/12 max-w-2xl md:max-w-3xl lg:max-w-5xl h-32 md:h-28 left-1/2 transform -translate-x-1/2 -top-14 rounded-2xl flex flex-col md:flex-row items-center justify-around px-4 md:px-8 z-10 space-y-4 md:space-y-0">
         {/* Icon and Text Group 1 */}
         <div className="flex items-center space-x-4">
           <div className="bg-white h-12 w-12 flex justify-center items-center rounded-full">
@@ -45,9 +45,9 @@ function Footer() {
       </div>
 
       {/* Main Footer Content */}
-      <div className="pt-32 pb-12 px-8">
-        <div className="container mx-auto">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+      <div className="pt-40 md:pt-32 pb-12 px-4 md:px-8">
+        <div className="max-w-7xl mx-auto">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             {/* Company Info */}
             <div className="space-y-4">
               <div className="flex items-center space-x-2">
@@ -117,11 +117,11 @@ function Footer() {
 
           {/* Bottom Bar */}
           <div className="border-t border-gray-700 mt-12 pt-8">
-            <div className="flex flex-col md:flex-row justify-between items-center">
-              <p className="text-gray-400 text-sm">
+            <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
+              <p className="text-gray-400 text-sm text-center sm:text-left">
                 © {new Date().getFullYear()} TabletzPharma. All rights reserved.
               </p>
-              <div className="flex space-x-6 mt-4 md:mt-0">
+              <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-6 mt-2 sm:mt-0 items-center">
                 <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">Privacy Policy</a>
                 <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">Terms of Service</a>
                 <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">Refund Policy</a>

@@ -5,14 +5,14 @@ function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
       {/* Hero Section */}
-      <section className="mb-16">
+      <section className="mb-10 sm:mb-16">
         <Hero/>
       </section>
 
       {/* Features Section */}
-      <section className="py-16 bg-gradient-to-r from-blue-50 to-purple-50">
-        <div className="container mx-auto px-4">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <section className="py-10 sm:py-16 bg-gradient-to-r from-blue-50 to-purple-50">
+        <div className="max-w-7xl mx-auto px-2 sm:px-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 sm:gap-8">
             <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
               <div className="text-blue-600 text-4xl mb-4">💰</div>
               <h3 className="text-xl font-bold text-gray-800 mb-2">Special Discounts</h3>
@@ -33,8 +33,8 @@ function Home() {
       </section>
 
       {/* Reviews Section */}
-      <section className="py-16 bg-white">
-        <div className="container mx-auto px-4">
+      <section className="py-10 sm:py-16 bg-white">
+        <div className="max-w-7xl mx-auto px-2 sm:px-4">
           <Reviews/>
         </div>
       </section>
@@ -47,8 +47,8 @@ function Home() {
       </section> */}
 
       {/* FAQ Section */}
-      <section className="py-16 bg-white">
-        <div className="container mx-auto px-4">
+      <section className="py-10 sm:py-16 bg-white">
+        <div className="max-w-7xl mx-auto px-2 sm:px-4">
           <FAQ/>
         </div>
       </section>
